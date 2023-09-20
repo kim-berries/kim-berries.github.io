@@ -1,22 +1,19 @@
 {
-	"movies": [
+	"Favorite Video Games": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Super Mario Galaxy",
+			"Company": "Nintendo",
+			"Year": "2007"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "The Legend of Zelda: Tears of the Kingdom",
+			"Company": "Nintendo",
+			"Year": "2023"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Grand Theft Auto V",
+			"Company": "Rockstar Games",
+			"Year": "2013"
 		}
 	]
 }
