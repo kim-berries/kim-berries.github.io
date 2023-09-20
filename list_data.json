@@ -1,0 +1,22 @@
+{
+	"movies": [
+		{
+			"Title": "Lost In Translation",
+			"Director": "Sofia Coppola",
+			"Rating": "R",
+			"Year": "2003"
+		},
+		{
+			"Title": "Casino Royale",
+			"Director": "Martin Campbell",
+			"Rating": "PG-13",
+			"Year": "2006"
+		},
+		{
+			"Title": "The Dark Knight",
+			"Director": "Christopher Nolan",
+			"Rating": "PG-13",
+			"Year": "2008"
+		}
+	]
+}
